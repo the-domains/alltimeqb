@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[alltimeQB]]></title>
         <description><![CDATA[alltimeQB]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/alltimeqb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 Nov 2015 21:21:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 05 Nov 2015 21:23:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alltimeqb/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>The Sunday morning quarterback.</p>]]></description>
-            <link>undefined72add876-97b9-406f-8c00-2747981f6624/index.html</link>
+            <title><![CDATA[The Sunday morning quarterback]]></title>
+            <description><![CDATA[<article><h1>The Sunday morning quarterback</h1><p>The Sunday morning quarterback.</p></article>]]></description>
+            <link>https://thegrid.ai/alltimeqb/72add876-97b9-406f-8c00-2747981f6624/index.html</link>
             <guid isPermaLink="false">72add876-97b9-406f-8c00-2747981f6624</guid>
-            <pubDate>Thu, 05 Nov 2015 21:21:45 GMT</pubDate>
+            <pubDate>Thu, 05 Nov 2015 21:23:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

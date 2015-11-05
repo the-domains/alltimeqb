@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[alltimeQB]]></title>
         <description><![CDATA[alltimeQB]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/alltimeqb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 Nov 2015 02:47:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 05 Nov 2015 20:40:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alltimeqb/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://cdn-jpg.si.com/sites/default/files/styles/mmqb_large_war/public/2015/11/05/cam-newton-carolina-panthers-colts-2015-1600.jpg?itok=LBJnKURm">]]></description>
+            <link>https://thegrid.ai/alltimeqb/3654d0ee-fc20-4eb0-9420-15ae8a1fecbc/index.html</link>
+            <guid isPermaLink="false">3654d0ee-fc20-4eb0-9420-15ae8a1fecbc</guid>
+            <pubDate>Thu, 05 Nov 2015 20:39:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The Sunday morning quarterback.</p>]]></description>
-            <link>undefined72add876-97b9-406f-8c00-2747981f6624/index.html</link>
+            <link>https://thegrid.ai/alltimeqb/72add876-97b9-406f-8c00-2747981f6624/index.html</link>
             <guid isPermaLink="false">72add876-97b9-406f-8c00-2747981f6624</guid>
             <pubDate>Thu, 05 Nov 2015 02:45:36 GMT</pubDate>
         </item>

@@ -1,13 +1,26 @@
-analytics: {}
+name: alltimeQB
+favicon: null
+layout_spectrum: 0.217342
+typography_spectrum: 0.674549
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors: []
   brandStrength: 0.323198
   lightness: 0.885135
-  rhythmicContrast: 0.643018
   saturation: 0.34572
-cta: {}
-layout_spectrum: 0.217342
-name: alltimeQB
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.674549
+  rhythmicContrast: 0.643018
+purpose:
+  - name: null
+    item: null
+    url: null
